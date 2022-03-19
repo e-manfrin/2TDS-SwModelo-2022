@@ -1,0 +1,33 @@
+1-) Especificação algoritmica:
+
+As funções de cálculo recebem 2 parâmetros numéricos inteiros e retornam um resultado inteiro. 
+Na subtração, deve ser subtraído o 2o número do 1o número 
+E na divisão, o 2o numero deve ser dividido pelo 1o. 
+Nas demais operacoes a ordem dos fatores não importa.
+
+Façam, por favor, os testes de: Subtrair 3 de 3, multiplicar 3 por 3, dividir 9 por 3.
+
+2-)Use o portugol a seguir e crie a Classe JAVA com seus testes:
+
+Classe publica MenagemPadrao{
+
+ 
+
+     String privada mensagemAbertura;
+
+      
+
+     String geraMensagem() {
+
+        mensagemAbertura = “Bem vindos, todos vocês”;
+
+        retorna mensagemAbertura;
+
+     }
+
+   
+
+}
+
+
+
